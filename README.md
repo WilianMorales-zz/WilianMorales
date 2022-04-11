@@ -140,9 +140,9 @@
   <p align="center">:computer: &nbsp;<i><b>GitHub Profile Stats</b></i></p>
    <br>
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WilianMorales&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="WilianMorales" height="192px"/>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WilianMorales&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="WilianMorales" height="158px"/>
   &nbsp;
-  <img align="right" alt="Wilian Morales Github Stats" src="https://github-readme-stats.vercel.app/api?username=WilianMorales&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+  <img align="right" alt="Wilian Morales Github Stats" src="https://github-readme-stats.vercel.app/api?username=WilianMorales&show_icons=true&count_private=true&theme=algolia" height="158px"/>
   
   <br>
   

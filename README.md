@@ -13,7 +13,7 @@
 >- Currently learning Web Development and other programming languages, but my specialty is `Front-End` development. :computer:
 >- I have experience in web technologies such as **Angular 12**, **TypeScript**, **Bootstrap**, **Git and GitHub**, etc. I also have basic knowledge in `Back-End`. 
 >- I’m currently learning: **Spring Boot** and **Node.js**.
->- This is [MY PORTFOLIO](https://github.com/WilianMorales).
+>- This is [MY PORTFOLIO](https://github.com/WilianMorales/MyPortfolio).
 >- Always **learning new things**.
 
 <p align="left"><i><b>Connect with me:</b></i> &nbsp; <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></p>
@@ -58,12 +58,6 @@
       </a>
       <br>Javascript
     </td>
-     <td align="center" width="96">
-      <a href="#angular">
-        <img src="https://i.ibb.co/RB4qZhf/angular.png" width="48" height="48" alt="angular" />
-      </a>
-      <br>Angular
-    </td>
   </tr>
 
   <tr>
@@ -73,12 +67,6 @@
         </a>
         <br>SpringBoot
       </td>
-      <td align="center" width="96">
-      <a href="#nodejs">
-        <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48" height="48" alt="NodeJs" />
-      </a>
-      <br>Node.js
-    </td>
       <td align="center" width="96">
       <a href="#mysql">
         <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="48" height="48" alt="mysql" />
@@ -91,22 +79,15 @@
       </a>
       <br>TypeScript
     </td>
-     <td align="center" width="96">
-        <a href="#sass">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48"
-                alt="Sass" />
-        </a>
-        <br>Sass
+    <td align="center" width="96">
+      <a href="#angular">
+        <img src="https://i.ibb.co/RB4qZhf/angular.png" width="48" height="48" alt="angular" />
+      </a>
+      <br>Angular
     </td>
   </tr>
  
    <tr>
-     <td align="center" width="96">
-      <a href="#flutter">
-        <img src="https://img.icons8.com/color/30/flutter.png" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
     <td align="center" width="96">
       <a href="#github" >
         <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="48" height="48" alt="github" />
